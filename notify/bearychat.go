@@ -3,10 +3,10 @@ package notify
 import (
 	"encoding/json"
 
-	"github.com/ouqiang/supervisor-event-listener/conf"
-	"github.com/ouqiang/supervisor-event-listener/event"
-	"github.com/ouqiang/supervisor-event-listener/utils/errlog"
-	"github.com/ouqiang/supervisor-event-listener/utils/httpclient"
+	"supervisor-event-listener/conf"
+	"supervisor-event-listener/event"
+	"supervisor-event-listener/utils/errlog"
+	"supervisor-event-listener/utils/httpclient"
 )
 
 type BearyChat conf.BearyChat

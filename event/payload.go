@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ouqiang/supervisor-event-listener/utils"
+	"supervisor-event-listener/utils"
 )
 
 type Payload struct {

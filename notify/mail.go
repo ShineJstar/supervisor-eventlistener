@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	"github.com/go-gomail/gomail"
-	"github.com/ouqiang/supervisor-event-listener/conf"
-	"github.com/ouqiang/supervisor-event-listener/event"
+	"supervisor-event-listener/conf"
+	"supervisor-event-listener/event"
 )
 
 type Mail conf.Mail

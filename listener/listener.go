@@ -8,8 +8,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/ouqiang/supervisor-event-listener/event"
-	"github.com/ouqiang/supervisor-event-listener/notify"
+	"supervisor-event-listener/event"
+	"supervisor-event-listener/notify"
 )
 
 var (

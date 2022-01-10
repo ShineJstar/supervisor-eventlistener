@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ouqiang/supervisor-event-listener/utils/errlog"
+	"supervisor-event-listener/utils/errlog"
 	"github.com/pkg/errors"
 )
 

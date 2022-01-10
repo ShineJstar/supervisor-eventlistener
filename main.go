@@ -7,10 +7,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/ouqiang/supervisor-event-listener/conf"
-	"github.com/ouqiang/supervisor-event-listener/listener"
-	"github.com/ouqiang/supervisor-event-listener/notify"
-	"github.com/ouqiang/supervisor-event-listener/utils/errlog"
+	"supervisor-event-listener/conf"
+	"supervisor-event-listener/listener"
+	"supervisor-event-listener/notify"
+	"supervisor-event-listener/utils/errlog"
 )
 
 var (

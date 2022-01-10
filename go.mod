@@ -1,4 +1,4 @@
-module github.com/ouqiang/supervisor-event-listener
+module supervisor-event-listener
 
 go 1.17
 
